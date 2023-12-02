@@ -1,9 +1,9 @@
 <img src="https://github.com/danmcgrath10/danmcgrath10/assets/127457855/4a38c762-d1c5-4ade-b1f9-c3f8f7d20ee3" alt="Welcome Banner" />
 
+<br />
+
 Hello, I'm Danny! I'm a full stack software engineer that loves to design simple, elegant, and effective software solutions for the user. 
 I enjoy working with JavaScript frameworks (React, React Native, and Next.js) as well as Java front and backend technologies. 
-
-<br />
 
 Please reach out to me if you want to collaborate or wish to talk more!
 
