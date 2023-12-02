@@ -1,5 +1,5 @@
-<img src="https://github.com/danmcgrath10/danmcgrath10/assets/127457855/4a38c762-d1c5-4ade-b1f9-c3f8f7d20ee3" />
-### Hi there 👋
+<img src="https://github.com/danmcgrath10/danmcgrath10/assets/127457855/4a38c762-d1c5-4ade-b1f9-c3f8f7d20ee3" alt="Welcome Banner"/>
+
 
 <!--
 **danmcgrath10/danmcgrath10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
