@@ -1,8 +1,3 @@
-<img src="https://github.com/danmcgrath10/danmcgrath10/assets/127457855/4a38c762-d1c5-4ade-b1f9-c3f8f7d20ee3" alt="Welcome Banner" />
-
-<br />
-<br />
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel McGrath
 ======================================================================================================================================
 
