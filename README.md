@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-stack Web Developer
 ------------------------
 
-* 🌍  I'm based in Austin, Texas
+* 🌍  I'm based in Austin, Texas -> Moving to Boston, MA in January
 * 🖥️  See my portfolio at [My Portfolio](http://www.dannymportfolio.com)
 * ✉️  You can contact me at [danmcgrath1035@gmail.com](mailto:danmcgrath1035@gmail.com)
 * 🧠  I'm learning Python and Scala
